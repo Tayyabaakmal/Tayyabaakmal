@@ -29,14 +29,6 @@ I'm a passionate developer focused on building clean, high-performing web applic
 
 ---
 
-### 🚀 Featured Projects
-Check out some of my pinned repositories above or visit my live portfolio to explore projects like:
-- **MediaMovez** — Interactive media showcase and responsive layout design.
-- **Mediolie** — Clean user interface and seamless web navigation.
-- **Poseidon Offshore Energy & USports Nation** — Tailored modern web experiences.
-
----
-
 ### 📈 GitHub Stats
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Tayyabaakmal&show_icons=true&theme=radical&hide_border=true" />
